@@ -25,4 +25,5 @@
     </platform>
     <engine name="ios" spec="~4.2.1" />
     <engine name="android" spec="~5.2.2" />
+    <plugin name="cordova-plugin-code-push" spec="~1.8.2-beta" />
 </widget>
