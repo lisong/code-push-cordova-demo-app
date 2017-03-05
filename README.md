@@ -23,7 +23,7 @@ $ cordova run android
 # codepush 热更新
 
 ```shell
-$ code-push login http://codepush.19910225.com:8080 #登录code-push-server
+$ code-push login http://api.code-push.com:8080 #登录code-push-server
 $ code-push app add CodePushCordovaDemo-ios  #iOS版
 $ code-push app add CodePushCordovaDemo-android #android版
 $ cd /path/to/code-push-cordova-demo-app
